@@ -78,7 +78,17 @@
     {
       "group": "APIs",
       "pages": [
-        "api-reference/apis/get"
+        "api-reference/apis/create-api",
+        "api-reference/apis/delete-api",
+        "api-reference/apis/get-api",
+        "api-reference/apis/get-apis"
+      ]
+    },
+    {
+      "group": "Keys",
+      "pages": [
+        "api-reference/keys/create-key",
+        "api-reference/keys/verify-key"
       ]
     }
   ],
