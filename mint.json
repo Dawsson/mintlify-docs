@@ -30,19 +30,19 @@
     "url": "https://dashboard.keyforge.cloud"
   },
   "tabs": [
-
+    {
+      "name": "API Reference",
+      "url": "api-reference",
+      "isDefaultHidden": true
+    }
   ],
   "openapi": "https://api.keyforge.cloud/openapi.json",
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "API Reference",
-      "icon": "cloud",
-      "url": "https://mintlify.com/blog"
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/flytegg"
+
     },
     {
       "name": "Community",
@@ -72,8 +72,9 @@
     },
     {
       "group": "API Documentation",
+      "icon": "code",
       "pages": [
-        "api-reference/introduction"
+        "api-reference/overview"
       ]
     },
     {
