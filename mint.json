@@ -30,10 +30,7 @@
     "url": "https://dashboard.keyforge.cloud"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
+
   ],
   "openapi": "https://api.keyforge.cloud/openapi.json",
   "anchors": [
@@ -43,14 +40,14 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "API Reference",
+      "icon": "cloud",
+      "url": "https://mintlify.com/blog"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://discord.gg/flyte"
     }
   ],
   "navigation": [
