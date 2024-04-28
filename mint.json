@@ -42,7 +42,6 @@
       "name": "GitHub",
       "icon": "github",
       "url": "https://github.com/flytegg"
-
     },
     {
       "name": "Community",
@@ -80,10 +79,13 @@
     {
       "group": "APIs",
       "pages": [
-        "api-reference/apis/create-api",
-        "api-reference/apis/delete-api",
-        "api-reference/apis/get-api",
-        "api-reference/apis/get-apis"
+        {
+          "name": "APIs",
+          "pages": [
+            "api-reference/apis/get-v1apis-keys",
+            "api-reference/apis/get-v1apis-keys-1"
+          ]
+        }
       ]
     },
     {
