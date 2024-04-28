@@ -79,13 +79,8 @@
     {
       "group": "APIs",
       "pages": [
-        {
-          "name": "APIs",
-          "pages": [
-            "api-reference/apis/get-v1apis-keys",
-            "api-reference/apis/get-v1apis-keys-1"
-          ]
-        }
+        "api-reference/apis/get-v1apis-keys",
+        "api-reference/apis/get-v1apis-keys-1"
       ]
     },
     {
