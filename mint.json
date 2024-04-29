@@ -79,15 +79,20 @@
     {
       "group": "APIs",
       "pages": [
-        "api-reference/apis/get-v1apis-keys",
-        "api-reference/apis/get-v1apis-keys-1"
+        "api-reference/apis/get-v1apis",
+        "api-reference/apis/get-v1apis-1",
+        "api-reference/apis/post-v1apis",
+        "api-reference/apis/delete-v1apis"
       ]
     },
     {
       "group": "Keys",
       "pages": [
-        "api-reference/keys/create-key",
-        "api-reference/keys/verify-key"
+        "api-reference/keys/get-v1apis-keys",
+        "api-reference/keys/get-v1apis-keys-1",
+        "api-reference/keys/post-v1apis-keys",
+        "api-reference/keys/post-v1apis-keysverify",
+        "api-reference/keys/delete-v1apis-keys"
       ]
     }
   ],
