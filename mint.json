@@ -32,8 +32,7 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference",
-      "isDefaultHidden": true
+      "url": "api-reference"
     }
   ],
   "openapi": "https://api.keyforge.cloud/openapi.json",
