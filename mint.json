@@ -44,7 +44,7 @@
     {
       "name": "GitHub",
       "icon": "github",
-      "url": "https://github.com/flytegg"
+      "url": "https://github.com/keyforgecloud"
     },
     {
       "name": "Community",
@@ -84,10 +84,28 @@
         "api-reference/post-v0verify",
         "api-reference/delete-v0apis-keys"
       ]
+    },
+    {
+      "group": "Official Libraries",
+      "icon": "code",
+      "pages": [
+        {
+          "group": "Javascript",
+          "pages": [
+            "libraries/javascript/quickstart"
+          ]
+        },
+        {
+          "group": "Kotlin",
+            "pages": [
+                "libraries/kotlin/quickstart"
+            ]
+        }
+      ]
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/flytegg",
+    "github": "https://github.com/keyforgecloud",
     "discord": "https://discord.gg/flyte"
   }
 }
