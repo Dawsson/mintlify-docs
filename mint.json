@@ -90,15 +90,15 @@
       "icon": "code",
       "pages": [
         {
-          "group": "Javascript",
+          "group": "Typescript",
           "pages": [
-            "libraries/javascript/quickstart"
+            "libraries/typescript/overview"
           ]
         },
         {
           "group": "Kotlin",
             "pages": [
-                "libraries/kotlin/quickstart"
+                "libraries/kotlin/overview"
             ]
         }
       ]
